@@ -1,5 +1,6 @@
 <h2 align="left">Hi there👋, I'm Valentine</h2>
-<h4 align="left">I am a software engineer focused on iOS technologies. Also I am interesting integrating new computer technologies for energy projects</h2>
+<h5 align="left">I am a software engineer focused on iOS technologies.</h5>
+<h5 align="left">Also I am interesting integrating new computer technologies for energy projects.</h5>
 
 - 🌱 I’m currently learning SwiftUI, Combine,SwiftData, ML💡
 - 🤝 I`m looking to collaborate for new work opportunities📈
